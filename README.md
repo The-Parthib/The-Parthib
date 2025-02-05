@@ -1,54 +1,64 @@
-# 👋 नमस्ते! Hello, I’m **Parthib**
+# 👋 नमस्ते! Hello, I’m **Parthib**  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7402D&width=435&lines=Welcome+to+my+GitHub+profile!;A+Tech+Explorer+%26+Problem+Solver;Passionate+about+Coding+%26+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&width=500&lines=Welcome+to+my+GitHub+profile!;Tech+Enthusiast+%7C+IoT+Creator;React+Dev+%7C+Problem+Solver;Gaming+%26+Code+-+My+Jam!+;Let's+Build+Something+Awesome+Together!" />
 </p>
-
----
-
-### 👀 About Me  
-- 🎓 I’m a **B.Tech Computer Science & Engineering** student (3rd Year).  
-- 🌱 I’m currently **learning React** & building exciting projects using **React + TypeScript + Prisma**!  
-- 💡 I’m passionate about **coding**, **developing IoT systems**, and **AI/ML**.  
-- 🎮 **Fun Zone**: Gaming is my escape—always up for a challenge in virtual worlds!  
-
----
-
-### 🔧 Technologies & Tools I Use  
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
----
-
-### 💻 Current Projects  
-🚀 **Alumni-Student Interaction Platform**  
-- Building a centralized alumni database with AI-powered engagement tools for the Rajasthan Govt.  
-
-📅 **Smart Learning Management Web App**  
-- Developing an **Interactive Classroom Management System** using **React** and **Prisma**, focusing on real-time feedback and adaptive learning.  
-
-🌟 **IoT Motion Detection and Alert System**  
-- Built using **Raspberry Pi**, a **PIR sensor**, and Python. Sends Telegram alerts on detection!  
-
----
-
-### 📫 Let’s Connect!  
-- 📧 Email: [rijupanja81@gmail.com](mailto:rijupanja81@gmail.com)  
-- 🌐 Portfolio Website: *Coming Soon!*  
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Developer at work" width="300" />
+  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" alt="Developer Life" width="400" />
 </p>
 
-<p align="center">✨ "Keep building. Keep growing. Keep coding." ✨</p>
+---
+
+### 🚀 About Me  
+🌟 **A curious explorer of technology and problem-solving.**  
+🎓 **3rd-year B.Tech CSE student** passionate about creating impactful projects!  
+🎮 **Gaming Geek:** When not coding, you’ll find me leveling up in games.  
+💡 **Driven by curiosity** to learn, build, and grow.  
+
+---
+
+### 🛠️ Technologies I Work With  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,express,django,java,python,postgres,html,css,js,git" alt="Skills" />
+</p>
+
+---
+
+### 🌟 My Projects  
+| 🚀 **Project**                                  | 🛠️ **Tech Stack**           | 🌟 **Highlights**                                     |
+|------------------------------------------------|-----------------------------|------------------------------------------------------|
+| 🎓 **Alumni-Student Interaction Platform**     | Django, Python, AI          | Connecting alumni and students for mentorship.       |
+| 🏫 **Smart Classroom Management System**       | React, Prisma, TypeScript   | Real-time feedback, adaptive learning tools.         |
+| 🔔 **IoT Motion Detection Alert System**       | Raspberry Pi, Python, Telegram Bot | Detects motion, sends alerts via Telegram.          |
+| 📅 **College Scheduling Algorithm**            | Python, Algorithms          | Automating efficient timetable generation.           |
+
+---
+
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=The-Parthib&show_icons=true&theme=radical" alt="Parthib's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Parthib&layout=compact&theme=radical" alt="Top Languages" height="180" />
+</p>
+
+---
+
+### 🎮 Fun Facts  
+- 🕹️ **Gaming Partner?** I’m always up for a co-op challenge.  
+- ⚡ **Secret Fun Fact:** It’s a mystery—guess if you can!  
+
+---
+
+### 📫 Let’s Connect  
+<p align="center">
+  <a href="mailto:rijupanja81@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/The-Parthib"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&width=450&lines=✨+Keep+Learning%2C+Keep+Coding!+✨" alt="Motivational Line" />
+</p>
