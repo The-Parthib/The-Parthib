@@ -1,7 +1,7 @@
 # 👋 नमस्ते! Hello, I’m **Parthib**  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&width=500&lines=Welcome+to+my+GitHub+profile!;Tech+Enthusiast+%7C+IoT+Creator;React+Dev+%7C+Problem+Solver;Gaming+%26+Code+-+My+Jam!+;Let's+Build+Something+Awesome+Together!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&width=500&lines=Welcome+to+my+GitHub+profile!;Tech+Enthusiast+%7C+IoT+Creator;React+Dev+%7C+Problem+Solver;Gaming+%30+Code+-+My+Jam!+;Let's+Build+Something+Awesome+Together!" />
 </p>
 
 ---
