@@ -80,7 +80,7 @@
   ![GitHub Snake dark](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
   
   <!-- Streak stats -->
-  <img src="https://streak-stats.demolab.com?user=The-Parthib&theme=highcontrast" alt="GitHub Streak"/>
+  <!--img src="https://streak-stats.demolab.com?user=The-Parthib&theme=highcontrast" alt="GitHub Streak"/-->
 </div>
 
 ---
