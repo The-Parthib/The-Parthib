@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Robot.png" alt="Robot" width="150" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 ---
@@ -14,7 +14,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/SIH_2024-FINALIST-gold?style=for-the-badge&logo=hackathon&logoColor=white" alt="SIH 2024" />
   <br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="100">
+  <img src="https://media.giphy.com/media/QBw33dFlgQhziRZJ60/giphy.gif" width="100">
 </div>
 
 🎯 **Proud Team Leader** at Smart India Hackathon 2024 Finals  
@@ -88,7 +88,7 @@
 
 ### 🎮 Fun Facts  
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Video%20Game.png" alt="Video Game" width="100" />
+  <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="100" />
 </div>
 
 - 🕹️ **Gaming Partner?** I'm always up for a co-op challenge.  
