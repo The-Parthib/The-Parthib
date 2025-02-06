@@ -56,7 +56,7 @@
 
 ### 🌟 Featured Projects  
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="100" />
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="250" />
 </div>
 
 | 🚀 **Project**                                  | 🛠️ **Tech Stack**           | 🌟 **Highlights**                                     |
@@ -72,7 +72,6 @@
 ### 📈 GitHub Stats  
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="100" />
-  
   <img src="https://github-readme-stats.vercel.app/api?username=The-Parthib&show_icons=true&theme=tokyonight" alt="Parthib's GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Parthib&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
   
