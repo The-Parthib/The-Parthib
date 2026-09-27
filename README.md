@@ -1,120 +1,143 @@
+# 👋 नमस्ते! Hello, I'm **Parthib Panja**  
+
 <div align="center">
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Hello%2C%20World%21;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%2C%20%E0%A4%A6%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%21;%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%8B%2C%20%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%21" alt="Hello World in English, Hindi and Bengali" /> </div> <h1 align="center">Parthib Panja</h1> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1200&color=8B949E&center=true&vCenter=true&width=550&lines=AI+Engineer+%7C+Full+Stack+Developer;B.Tech+in+Computer+Science+Engineering;SIH+2024+Finalist" alt="Role" /> <br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Full+Stack+Developer;Final+Year+CSE+Student;Building+Real-World+Smart+Systems;SIH+2024+Finalist+%F0%9F%8F%86" />
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="90"/>
 
 </div>
 
-<h1 align="center">Parthib Panja</h1>
+---
+
+## 🚀 About Me  
+
+- 🎓 Final Year **B.Tech CSE Student**  
+- 🤖 Passionate about **AI + Automation Systems**  
+- 🏆 **SIH 2024 Finalist**  
+- ⚡ Love building **real-world impactful projects**  
+
+---
+
+## 💼 Work Experience  
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1200&color=8B949E&center=true&vCenter=true&width=550&lines=AI+Engineer+%7C+Full+Stack+Developer;B.Tech+in+Computer+Science+Engineering;SIH+2024+Finalist" alt="Role" />
-
-<br>
-
-<a href="mailto:rijupanja81@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/The-Parthib"><img src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/parthib-panja-193571286/"><img src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/EY%20India-AI%20Engineer%20Intern-black?style=for-the-badge&logo=ey&logoColor=yellow" />
 
 </div>
 
-<br>
+### 🧠 AI Engineer Intern — EY India  
+- Built AI-driven intelligent systems  
+- Worked on automation workflows  
+- Exposure to real-world production environments  
 
-## About
+---
 
-Computer Science Engineering graduate with a focus on AI-driven systems and full-stack development. Experienced in building automation workflows and production-grade applications, with a strong interest in solving real-world problems through technology.
-
-| | |
-|---|---|
-| 🎓 **Education** | B.Tech, Computer Science & Engineering |
-| 💼 **Current Role** | AI Engineer Intern @ EY India |
-| 🏆 **Recognition** | Smart India Hackathon (SIH) 2024 Finalist |
-| 🌍 **Focus Areas** | AI & Automation, Full-Stack Web Development |
-
-<br>
-
-## Experience
-
-| Role | Organization | Highlights |
-|---|---|---|
-| **AI Engineer Intern** | EY India | Built AI-driven intelligent systems; developed automation workflows; gained exposure to production-grade engineering practices |
-
-<br>
-
-## Technical Skills
+## 🧠 Tech Stack  
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,express,python,mongodb,prisma&theme=dark" />
-</div>
-
-| Category | Technologies |
-|---|---|
-| **Languages** | Java, JavaScript, TypeScript, Python |
-| **Frontend** | React |
-| **Backend** | Node.js, Express |
-| **Database & ORM** | MongoDB, Prisma |
-
-<br>
-
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **LegalLink** *(Final Year Project)* | West Bengal-based online legal consultancy platform connecting people with advocates for online consultations. Features an AI legal assistant supporting text and voice input, which finds similar past cases and applicable guidelines to give users a complete legal solution | React, Nest.js, Python, AI/NLP |
-| **NeighborLink** | Hyper-local resource sharing platform enabling neighbors within a locality to share resources with people in need | React, Node.js |
-| **AI Meal Planner** (SDG 2) | Smart, low-cost nutrition planning system aligned with UN SDG 2 | Python, AI/ML |
-| **IoT Motion Detection System** | Real-time motion alerts using Raspberry Pi with Telegram integration | Raspberry Pi, Python, Telegram API |
-| **Smart Classroom System** | Analytics and communication platform for classroom management | Full-Stack |
-
-<br>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=The-Parthib&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Parthib&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=The-Parthib&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
-<details>
-<summary><b>Contribution Snake</b></summary>
-<br>
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</div>
-</details>
+---
 
-<br>
-
-## Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=The-Parthib&theme=github_dark&no-frame=true&row=1&column=6" />
-</div>
-
-<br>
-
-## Connect
+## 📊 GitHub Stats  
 
 <div align="center">
 
-<a href="mailto:rijupanja81@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/The-Parthib"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/parthib-panja-193571286/"><img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=The-Parthib&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Parthib&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=The-Parthib&theme=tokyonight&hide_border=true" />
 
 </div>
 
-<br>
+---
+
+## 🐍 Contribution Snake  
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=The-Parthib&style=flat-square&color=333333" />
+![GitHub Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-<br><br>
+</div>
 
-<sub>Thanks for stopping by — always open to collaborating on interesting projects.</sub>
+---
+
+## 🚀 Featured Projects  
+
+- 🧠 **AI Meal Planner (SDG 2)** → Smart low-cost nutrition system  
+- 📡 **IoT Motion Detection System** → Raspberry Pi + Telegram alerts  
+- 🏫 **Smart Classroom System** → Analytics + communication platform  
+- 🌐 **Food Ordering Website** → Django full-stack  
+
+---
+
+## 📈 Activity Graph  
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=The-Parthib&theme=tokyo-night" />
+
+</div>
+
+---
+
+## 🏆 Achievements  
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=The-Parthib&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 🎮 Fun Zone  
+
+<div align="center">
+<img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="120" />
+</div>
+
+- 🕹️ Always ready for gaming  
+- ⚡ Builds random ideas at midnight  
+- 😏 Secret fact: Still unknown  
+
+---
+
+## 📫 Let's Connect  
+
+<div align="center">
+
+<a href="mailto:rijupanja81@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/The-Parthib">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/parthib-panja-193571286/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=The-Parthib&style=for-the-badge&color=blueviolet"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F75C7E&center=true&width=450&lines=✨+Keep+Learning+%2C+Keep+Building!+✨" />
 
 </div>
