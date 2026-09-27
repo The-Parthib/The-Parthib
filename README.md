@@ -1,9 +1,3 @@
-<div align="center">
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Hello%2C%20World%21;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%2C%20%E0%A4%A6%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%21;%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%8B%2C%20%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%21" alt="Hello World in English, Hindi and Bengali" /> </div> <h1 align="center">Parthib Panja</h1> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1200&color=8B949E&center=true&vCenter=true&width=550&lines=AI+Engineer+%7C+Full+Stack+Developer;B.Tech+in+Computer+Science+Engineering;SIH+2024+Finalist" alt="Role" /> <br>
-
-</div>
-
 <h1 align="center">Parthib Panja</h1>
 
 <div align="center">
